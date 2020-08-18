@@ -1,0 +1,8 @@
+.contents-bracelets {
+    display: flex;
+    justify-content: center;
+    font: Futura-Lig;
+    letter-spacing: 2px;
+    color: rgb(31, 17, 1);
+    font-weight: 200;
+}

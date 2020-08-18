@@ -1,0 +1,18 @@
+.contents-home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 30%;
+  font: Futura-Lig;
+  letter-spacing: 2px;
+  color: rgb(31, 17, 1);
+  font-weight: 200;
+  text-align: center;
+}
+
+.center-home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

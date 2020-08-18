@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Petit+Formal+Script&family=Pompiere&family=Thasadith:ital@1&display=swap');
+
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.contents-signup {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border: rgb(31, 17, 1) 1px solid;
+}
+
+.form {
+    margin: 2rem;
+}
+
+.signUp {
+    margin: 2rem;
+    margin-top: 0rem;
+    font: Futura-Lig;
+    letter-spacing: 2px;
+    color: rgb(31, 17, 1);
+}
+
+.btn {
+    margin:20px;
+    margin-bottom: 0px;
+}
+
+.label {
+    font: Futura-Lig;
+    letter-spacing: 2px;
+    color: rgb(31, 17, 1);
+    font-weight: 200;
+}

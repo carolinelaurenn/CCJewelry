@@ -1,0 +1,48 @@
+h1 {
+  display: block;
+  font-size: 2em;
+  margin-block-start: 0.3em;
+  margin-block-end: 0em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: 100 !important;
+}
+
+
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: white;
+  min-height: 35vh;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center;
+  justify-content: center; */
+  color: white;
+}
+
+.Link-line {
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 15em;
+  margin-right: 15em;
+}
+
+.App-link {
+  color: #696966;
+  text-decoration: none;
+  font-variant-caps: all-small-caps;
+  font-size: 1.5em;
+}
+
+.Title {
+  color: rgb(90, 83, 83);
+  font-family: Courier New, monospace;
+  font-weight: 100;
+  font-size: 6rem;
+}
+
+

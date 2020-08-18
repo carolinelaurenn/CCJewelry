@@ -1,0 +1,36 @@
+.pic {
+    width: 400px;
+    height: 240px;
+    size: 20vh;
+    margin-right: 2rem;
+}
+
+.pic2 {
+    width: 400px;
+    height: 280px;
+    margin-left: 2rem;
+}
+
+.contents-aboutus {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font: Futura-Lig;
+    letter-spacing: 2px;
+    color: rgb(31, 17, 1);
+    font-weight: 200;
+    margin: 10rem;
+    margin-top: 2rem;
+}
+
+.paragraph{
+    width: 54%;
+    color: rgb(31, 17, 1);
+}
+
+.row-pic-bio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5rem;
+}
